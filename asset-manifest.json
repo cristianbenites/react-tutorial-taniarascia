@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cristianbenites.github.io/react-tutorial-taniarascia/static/css/main.9345b6e2.css",
+    "main.js": "/cristianbenites.github.io/react-tutorial-taniarascia/static/js/main.45c8416f.js",
+    "index.html": "/cristianbenites.github.io/react-tutorial-taniarascia/index.html",
+    "main.9345b6e2.css.map": "/cristianbenites.github.io/react-tutorial-taniarascia/static/css/main.9345b6e2.css.map",
+    "main.45c8416f.js.map": "/cristianbenites.github.io/react-tutorial-taniarascia/static/js/main.45c8416f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9345b6e2.css",
+    "static/js/main.45c8416f.js"
+  ]
+}
